@@ -17,6 +17,19 @@
 		CB9947982BCB310F00C8568A /* Smit_Patel_FE_8965581Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947972BCB310F00C8568A /* Smit_Patel_FE_8965581Tests.swift */; };
 		CB9947A22BCB310F00C8568A /* Smit_Patel_FE_8965581UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947A12BCB310F00C8568A /* Smit_Patel_FE_8965581UITests.swift */; };
 		CB9947A42BCB310F00C8568A /* Smit_Patel_FE_8965581UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947A32BCB310F00C8568A /* Smit_Patel_FE_8965581UITestsLaunchTests.swift */; };
+		CB9947B12BCB327900C8568A /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947B02BCB327900C8568A /* MainViewController.swift */; };
+		CB9947B52BCB346E00C8568A /* HistoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947B42BCB346E00C8568A /* HistoryTableViewController.swift */; };
+		CB9947B72BCB367900C8568A /* NewsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947B62BCB367900C8568A /* NewsTableViewController.swift */; };
+		CB9947B92BCB376700C8568A /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947B82BCB376700C8568A /* MapViewController.swift */; };
+		CB9947BB2BCB378B00C8568A /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947BA2BCB378B00C8568A /* WeatherViewController.swift */; };
+		CB9947BD2BCB39E800C8568A /* DetailNewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947BC2BCB39E800C8568A /* DetailNewsTableViewCell.swift */; };
+		CB9947BF2BCB3A1900C8568A /* DirectionsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947BE2BCB3A1900C8568A /* DirectionsTableViewCell.swift */; };
+		CB9947C12BCB3A5300C8568A /* NewsDataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947C02BCB3A5300C8568A /* NewsDataTableViewCell.swift */; };
+		CB9947C32BCB3A7F00C8568A /* WeatherDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947C22BCB3A7F00C8568A /* WeatherDetailTableViewCell.swift */; };
+		CB9947C52BCB3CDE00C8568A /* NewsBean.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947C42BCB3CDE00C8568A /* NewsBean.swift */; };
+		CB9947C72BCB3CF900C8568A /* WeatherBean.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947C62BCB3CF900C8568A /* WeatherBean.swift */; };
+		CB9947C92BCB3DBA00C8568A /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947C82BCB3DBA00C8568A /* Utils.swift */; };
+		CB9947CB2BCB3E4700C8568A /* DataSavingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9947CA2BCB3E4700C8568A /* DataSavingManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,19 @@
 		CB99479D2BCB310F00C8568A /* Smit_Patel_FE_8965581UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Smit_Patel_FE_8965581UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB9947A12BCB310F00C8568A /* Smit_Patel_FE_8965581UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Smit_Patel_FE_8965581UITests.swift; sourceTree = "<group>"; };
 		CB9947A32BCB310F00C8568A /* Smit_Patel_FE_8965581UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Smit_Patel_FE_8965581UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CB9947B02BCB327900C8568A /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		CB9947B42BCB346E00C8568A /* HistoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryTableViewController.swift; sourceTree = "<group>"; };
+		CB9947B62BCB367900C8568A /* NewsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewController.swift; sourceTree = "<group>"; };
+		CB9947B82BCB376700C8568A /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		CB9947BA2BCB378B00C8568A /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		CB9947BC2BCB39E800C8568A /* DetailNewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailNewsTableViewCell.swift; sourceTree = "<group>"; };
+		CB9947BE2BCB3A1900C8568A /* DirectionsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DirectionsTableViewCell.swift; sourceTree = "<group>"; };
+		CB9947C02BCB3A5300C8568A /* NewsDataTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDataTableViewCell.swift; sourceTree = "<group>"; };
+		CB9947C22BCB3A7F00C8568A /* WeatherDetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailTableViewCell.swift; sourceTree = "<group>"; };
+		CB9947C42BCB3CDE00C8568A /* NewsBean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsBean.swift; sourceTree = "<group>"; };
+		CB9947C62BCB3CF900C8568A /* WeatherBean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherBean.swift; sourceTree = "<group>"; };
+		CB9947C82BCB3DBA00C8568A /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		CB9947CA2BCB3E4700C8568A /* DataSavingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSavingManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,9 +128,22 @@
 			isa = PBXGroup;
 			children = (
 				CB99477D2BCB310E00C8568A /* AppDelegate.swift */,
+				CB9947C82BCB3DBA00C8568A /* Utils.swift */,
 				CB99477F2BCB310E00C8568A /* SceneDelegate.swift */,
 				CB9947812BCB310E00C8568A /* ViewController.swift */,
 				CB9947832BCB310E00C8568A /* Main.storyboard */,
+				CB9947CA2BCB3E4700C8568A /* DataSavingManager.swift */,
+				CB9947C42BCB3CDE00C8568A /* NewsBean.swift */,
+				CB9947C62BCB3CF900C8568A /* WeatherBean.swift */,
+				CB9947C22BCB3A7F00C8568A /* WeatherDetailTableViewCell.swift */,
+				CB9947C02BCB3A5300C8568A /* NewsDataTableViewCell.swift */,
+				CB9947BC2BCB39E800C8568A /* DetailNewsTableViewCell.swift */,
+				CB9947BE2BCB3A1900C8568A /* DirectionsTableViewCell.swift */,
+				CB9947BA2BCB378B00C8568A /* WeatherViewController.swift */,
+				CB9947B82BCB376700C8568A /* MapViewController.swift */,
+				CB9947B62BCB367900C8568A /* NewsTableViewController.swift */,
+				CB9947B42BCB346E00C8568A /* HistoryTableViewController.swift */,
+				CB9947B02BCB327900C8568A /* MainViewController.swift */,
 				CB9947892BCB310F00C8568A /* Assets.xcassets */,
 				CB99478B2BCB310F00C8568A /* LaunchScreen.storyboard */,
 				CB99478E2BCB310F00C8568A /* Info.plist */,
@@ -261,10 +300,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB9947CB2BCB3E4700C8568A /* DataSavingManager.swift in Sources */,
+				CB9947C12BCB3A5300C8568A /* NewsDataTableViewCell.swift in Sources */,
 				CB9947822BCB310E00C8568A /* ViewController.swift in Sources */,
+				CB9947C52BCB3CDE00C8568A /* NewsBean.swift in Sources */,
+				CB9947BD2BCB39E800C8568A /* DetailNewsTableViewCell.swift in Sources */,
+				CB9947BB2BCB378B00C8568A /* WeatherViewController.swift in Sources */,
+				CB9947C32BCB3A7F00C8568A /* WeatherDetailTableViewCell.swift in Sources */,
 				CB99477E2BCB310E00C8568A /* AppDelegate.swift in Sources */,
+				CB9947C92BCB3DBA00C8568A /* Utils.swift in Sources */,
+				CB9947BF2BCB3A1900C8568A /* DirectionsTableViewCell.swift in Sources */,
+				CB9947B52BCB346E00C8568A /* HistoryTableViewController.swift in Sources */,
 				CB9947802BCB310E00C8568A /* SceneDelegate.swift in Sources */,
 				CB9947882BCB310E00C8568A /* Smit_Patel_FE_8965581.xcdatamodeld in Sources */,
+				CB9947B72BCB367900C8568A /* NewsTableViewController.swift in Sources */,
+				CB9947C72BCB3CF900C8568A /* WeatherBean.swift in Sources */,
+				CB9947B12BCB327900C8568A /* MainViewController.swift in Sources */,
+				CB9947B92BCB376700C8568A /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
